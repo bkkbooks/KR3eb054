@@ -1,0 +1,127 @@
+canonical_identifier: bkk:krp/KR3eb054/v1
+canonical_location: https://kanripo.org/bkk/KR3eb054/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒舌鑑
+  identifiers:
+    krp: KR3eb054
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb054.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb054_000.yaml, hash: 'sha256:835a301bdd2330e5c13db23c05b8d44e12026943bce8f19934a7db6f002520fe'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb054_000.markers.yaml, hash: 'sha256:b5ddc6c65da98d267b6bf904d5984cc56b0053ebc13e21853cf16dc93c3aabb0'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 297
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1348
+  label: 白苔舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d4.h1s1
+    span:
+    - body
+    - 1348
+    - 2243
+  label: 黃苔舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d5.h1s1
+    span:
+    - body
+    - 2243
+    - 2936
+  label: 黑苔舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d6.h1s1
+    span:
+    - body
+    - 2936
+    - 3564
+  label: 灰色舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d7.h1s1
+    span:
+    - body
+    - 3564
+    - 4758
+  label: 紅色舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d8.h1s1
+    span:
+    - body
+    - 4758
+    - 5320
+  label: 紫色舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d9.h1s1
+    span:
+    - body
+    - 5320
+    - 5598
+  label: 黴醬色苔舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d10.h1s1
+    span:
+    - body
+    - 5598
+    - 5772
+  label: 藍色苔舌總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb054_jc_000-d11.h1s1
+    span:
+    - body
+    - 5772
+    - 6228
+  label: 妊娠傷寒舌總論
+  type: section
+  level: 1
+hash: sha256:306c62a643df5b6cb8adb6e2a20459a4ab421547b16d04dc7a36c8e57e76c138
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
