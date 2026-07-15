@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eb054/v1
 canonical_location: https://kanripo.org/bkk/KR3eb054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 傷寒舌鑑
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eb054_000.yaml, hash: 'sha256:7f702a847b5cf239e0e34b36d5ea30a4ff3699c7931469d1a4452ef36825ddc1'}
+  - {seq: 0, filename: KR3eb054_000.yaml, hash: 'sha256:e3d169bb3419755c883f5c7186a7a1aaf35fb8714ee7ec3e0ebc879fc663bfdd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eb054_000.markers.yaml, hash: 'sha256:30749c7e027e66c0853078676326665540d672b1038061504bf0871432093863'}
+  - {seq: 0, role: markers, filename: assets/KR3eb054_000.markers.yaml, hash: 'sha256:ca63991911399570db351b874d23d05e04d54d47e95f8a671716d49089bef412'}
 table_of_contents:
 - ref:
     seq: 0
@@ -121,4 +121,7 @@ table_of_contents:
   label: 妊娠傷寒舌總論
   type: section
   level: 1
-hash: sha256:0832b9fb0082e28d06abb04bc959c6b3b085eb74d69b829634a4aabfc8467772
+hash: sha256:8fd28a869fab563da1b054f3131f82765b97b2cd5bd6bf094c33a60bbe419aea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
